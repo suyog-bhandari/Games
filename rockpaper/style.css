@@ -1,0 +1,12 @@
+body{
+    background-color:chocolate;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+}
+
+button{
+    display: inline;
+}
